@@ -1,5 +1,4 @@
 import {execute} from 'abort-controller-x';
-import {AbortSignal} from 'node-abort-controller';
 import {EmptyError, Observable} from 'rxjs';
 
 export interface LastValueFromConfig<T> {

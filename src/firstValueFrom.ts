@@ -1,4 +1,3 @@
-import {AbortSignal} from 'node-abort-controller';
 import {Observable} from 'rxjs';
 import {first} from 'rxjs/operators';
 import {lastValueFrom} from './lastValueFrom';

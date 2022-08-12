@@ -38,8 +38,7 @@
     "typescript": "^4.3.2"
   },
   "dependencies": {
-    "abort-controller-x": "^0.2.6",
-    "node-abort-controller": "^2.0.0",
+    "abort-controller-x": "^0.4.0",
     "rxjs": "^6.0.0 || ^7.0.0"
   }
 }

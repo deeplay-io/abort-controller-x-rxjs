@@ -1,4 +1,3 @@
-import AbortController from 'node-abort-controller';
 import {EMPTY, NEVER, of} from 'rxjs';
 import {finalize} from 'rxjs/operators';
 import {lastValueFrom} from './lastValueFrom';

@@ -1,5 +1,4 @@
 import {forever} from 'abort-controller-x';
-import {AbortSignal} from 'node-abort-controller';
 import {lastValueFrom, ObservableNotification} from 'rxjs';
 import {materialize, tap} from 'rxjs/operators';
 import {defer} from './defer';

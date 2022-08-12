@@ -1,4 +1,3 @@
-import AbortController, {AbortSignal} from 'node-abort-controller';
 import {EMPTY, from, Observable, ObservableInput, ObservedValueOf} from 'rxjs';
 
 /**

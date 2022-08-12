@@ -1,5 +1,4 @@
 import {delay} from 'abort-controller-x';
-import {AbortSignal} from 'node-abort-controller';
 import {lastValueFrom} from 'rxjs';
 import {take, toArray} from 'rxjs/operators';
 import {fromAsyncGenerator} from './fromAsyncGenerator';
